@@ -1,0 +1,7 @@
+#Un ejemplo de la estructura de los YAML file
+net: 
+  cuscatlan:
+    jms:
+      username: RenatoJMS
+      password: ClaveJMS
+      urldb: localhostJMS
